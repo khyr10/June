@@ -1,0 +1,12 @@
+# Data Types-int, float, str, boolean
+# cast/convert data from one type to another
+
+# Expressions and Variables
+# Exp=type of operations
+# Arithmatic Operations-Operators, and Operands +, -, /, * 
+# Python order is same as original Maths order, (), * , +, 
+print('Hello Python!')
+import sys
+print(sys.version)
+# print('Hello Phython')-will not print anything since it's commented
+print('Hello Phython 3!')
